@@ -51,7 +51,7 @@ This project was built to:
 
 Catch a glimpse of the game in action!
 
-![Snakes with Dev Gameplay](![image](https://github.com/user-attachments/assets/18742dad-cfa2-4b01-9ee0-8f1cd3d09a02)
+![Snakes with Dev Gameplay](output.png)
 )
 *Current Score: 90, Highscore: 100*
 
